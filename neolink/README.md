@@ -1,4 +1,4 @@
---- Neolink v0.6.1--- Fork of dm82m Home Assistant add-on repository --> Changed Dockerfile to Neolink v0.6.2 quantumentangledandy
+--- Neolink v0.6.1--- Fork of dm82m Home Assistant add-on repository --> Changed Dockerfile to Neolink v0.6.1 quantumentangledandy
 
 ## https://github.com/dm82m/hassio-addons
 
