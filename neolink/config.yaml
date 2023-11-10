@@ -1,4 +1,4 @@
-name: "Neolink"
+name: "Neolink 0.6.1 based on dm82m hassio-addons 0.0.8"
 description: "Will run Neolink directly as Add-on in HAOS"
 version: "0.0.8"
 slug: "neolink"
